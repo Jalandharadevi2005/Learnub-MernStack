@@ -32,6 +32,13 @@ To build an online learning system for students to access and learn courses like
 
 ## 📸 Screenshots & Pages
 
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e83509c5-a9dd-4546-909c-91187c629012" />
+
+
+
+
+
 ### 🏠 Home Page
 - Welcomes users with tagline **“Level Up Your Skills”**.  
 - Navigation: Home, Dashboard, Courses, My Courses, Profile, Logout.  
