@@ -32,22 +32,23 @@ To build an online learning system for students to access and learn courses like
 
 ## 📸 Screenshots & Pages
 
-
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e83509c5-a9dd-4546-909c-91187c629012" />
-
-
-
-
-
 ### 🏠 Home Page
+
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/e83509c5-a9dd-4546-909c-91187c629012" />
+
 - Welcomes users with tagline **“Level Up Your Skills”**.  
 - Navigation: Home, Dashboard, Courses, My Courses, Profile, Logout.  
 
 ### 🔐 Authentication
-- **Signup Page:** New users can register as *Student* or *Instructor*.  
+- **Signup Page:** New users can register as *Student* or *Instructor*.
+
+- <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/0efc1a9e-8e25-4808-8f28-61a916381276" />
+ 
 - **Login Page:** Returning users can log in securely.  
 
 ### 🎓 Student Dashboard
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/b5f35b12-3514-429b-8184-223cafcd46fe" />
+
 - Personalized greeting.  
 - Quick access to **Browse Courses** and **Enrolled Courses**.  
 
@@ -55,15 +56,22 @@ To build an online learning system for students to access and learn courses like
 - Displays all enrolled courses with details and comments.  
 
 ### 👤 Profile Page
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/1df3bb06-3287-49b9-94b7-85342b0369dc" />
+
 - Shows user details, role, and enrolled courses.  
 
 ### 📚 All Courses
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/a91f740b-42fe-4c50-acc1-8bfff7baecec" />
+
 - Browse all available courses.  
 - Filter by category.  
 - Options to Buy / Enroll.  
 - Add & view course comments.  
 
 ### 🧑‍💼 Admin Dashboard
+
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/e3c0ac44-e452-4be0-b25d-28f788da0f64" />
+
 - View users and roles.  
 - Monitor total users and courses.  
 - Manage platform effectively.  
